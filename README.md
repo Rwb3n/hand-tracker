@@ -79,4 +79,4 @@ Use the GUI to start and stop tracking.
 
 ## License
 
-*(Consider adding a LICENSE file - e.g., MIT License)* 
+MIT License
